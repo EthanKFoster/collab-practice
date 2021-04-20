@@ -1,0 +1,49 @@
+
+
+    
+.icon {
+    font-size: 50px;
+    color:cornflowerblue
+}
+
+.navbar{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: black;
+}
+  
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+    color:cornflowerblue;
+}
+
+ul > li {
+margin:0 .5rem;
+padding: 1rem;
+}
+
+.col_one {
+    background-color: rgb(185, 227, 255);
+    border: 5px dashed rgb(3, 3, 97);
+    font-size: 16px;
+    
+}
+
+.col_two {
+    background-color: rgb(135, 204, 164);
+    border: 5px dashed rgb(0, 68, 9);
+    margin-left: 1px;
+    font-size: 16px;
+}
+
+.my_footer {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 23px;
+    text-align: center;
+}
+
