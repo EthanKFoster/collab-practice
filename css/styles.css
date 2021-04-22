@@ -1,0 +1,75 @@
+
+.bg_header{
+    background-color: black;
+}
+
+.icon {
+    font-size: 50px;
+    color:cornflowerblue;
+}
+
+.navbar{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: black;
+}
+  
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+    color:cornflowerblue;
+}
+
+ul > li {
+margin:0 .5rem;
+padding: 1rem;
+}
+
+.col_one {
+    background-color: rgb(201, 197, 209);
+    border: 5px dashed rgb(129, 118, 136);
+    font-size: 16px;
+    
+}
+
+.col_two {
+    background-color: rgb(204, 207, 205);
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 1px;
+    font-size: 16px;
+}
+
+.my_footer {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 23px;
+    text-align: center;
+}
+
+.jumbotron{
+    margin-bottom: 6px;
+    background-image: url('/images/abandoned_building.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+        /* 
+            background-image: url('');
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat; 
+        */
+    
+}
+
+.the_undead{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+    
+
+.the_history{
+    color:white;
+    font-size: 30px;
+}
